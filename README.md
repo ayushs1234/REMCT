@@ -4,6 +4,7 @@
 This repository contains a clone of the Colorlib front page created using pure HTML and CSS. The clone aims to replicate the layout and design of the original Colorlib.
 
 You can see a live demo of the project here : https://ayushs1234.github.io/REMCT/
+
 Features
 
 **Responsive design**: The clone is designed to be responsive and optimized for different screen sizes. Navigation menu: The navigation menu at the top of the page allows users to browse different sections of the website.
@@ -20,6 +21,7 @@ The project was tested on the following browsers:
 
 Google chrome
 Mozila firefox
+
 Ayush anand
 
 
